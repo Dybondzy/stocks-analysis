@@ -3,7 +3,47 @@
 2nd Project on Boot Camp Exercise for Data Analystics
 
 
+### Overview of Project
+
+The purpose and background are well defined (2 pt).
+Results
+The analysis is well described with screenshots and code (4 pt).
+Summary
+There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
+There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+Submission
+Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
+
+As a reminder, upload the following deliverables to your stock-analysis GitHub repository:
+
+
 ## Purpose
+
+### Overview of Project: Explain the purpose of this analysis.
+
+Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+Summary: In a summary statement, address the following questions.
+What are the advantages or disadvantages of refactoring code?
+How do these pros and cons apply to refactoring the original VBA script?
+Deliverable 2 Requirements
+Structure, Organization, and Formatting Requirements (8 points)
+The written analysis contains the following structure, organization, and formatting:
+
+There is a title, and there are multiple paragraphs (2 pt).
+Each paragraph has a heading (2 pt).
+There are subheadings to break up text (2 pt).
+Links are working, and images are formatted and displayed where appropriate (2 pt).
+Analysis Requirements (12 points)
+The written analysis has the following:
+
+
+
+## Analysis and Challenges
+
+This documentation (Links to an external site.) provides more information about basic writing and formatting syntax for GitHub.
+
+For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
+
 
 ###	Deliverable 1: Refactor VBA code and measure performance
 
@@ -35,30 +75,6 @@ Deliverable 2 Instructions
 Initialize your repository with a README, and write your analysis of Deliverable 1.
 
 
-## Analysis and Challenges
-
-This documentation (Links to an external site.) provides more information about basic writing and formatting syntax for GitHub.
-
-For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
-
-
-### Overview of Project: Explain the purpose of this analysis.
-
-Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
-Deliverable 2 Requirements
-Structure, Organization, and Formatting Requirements (8 points)
-The written analysis contains the following structure, organization, and formatting:
-
-There is a title, and there are multiple paragraphs (2 pt).
-Each paragraph has a heading (2 pt).
-There are subheadings to break up text (2 pt).
-Links are working, and images are formatted and displayed where appropriate (2 pt).
-Analysis Requirements (12 points)
-The written analysis has the following:
-
 
 ### Overview of Project
 
@@ -72,6 +88,7 @@ Submission
 Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
 
 As a reminder, upload the following deliverables to your stock-analysis GitHub repository:
+
 
 ### Deliverable 1: Refactor VBA code and measure performance
 
