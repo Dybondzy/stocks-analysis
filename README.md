@@ -3,21 +3,14 @@
 2nd Project on Boot Camp Exercise for Data Analystics
 
 
-### Overview of Project
-
-The purpose and background are well defined (2 pt).
-Results
-The analysis is well described with screenshots and code (4 pt).
-Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
-
-As a reminder, upload the following deliverables to your stock-analysis GitHub repository:
-
-
 ## Purpose
+
+Steve loves the workbook you prepared for him. At the click of a button, he can analyze an entire dataset. Now, to do a little more research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although your code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.
+
+In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
+
+Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality; you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be your entry point to working with the existing code at a job.
+
 
 ### Overview of Project: Explain the purpose of this analysis.
 
@@ -76,6 +69,8 @@ Initialize your repository with a README, and write your analysis of Deliverable
 
 
 
+
+
 ### Overview of Project
 
 The purpose and background are well defined (2 pt).
@@ -88,6 +83,29 @@ Submission
 Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
 
 As a reminder, upload the following deliverables to your stock-analysis GitHub repository:
+
+
+## Purpose
+
+### Overview of Project: Explain the purpose of this analysis.
+
+Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+Summary: In a summary statement, address the following questions.
+What are the advantages or disadvantages of refactoring code?
+How do these pros and cons apply to refactoring the original VBA script?
+Deliverable 2 Requirements
+Structure, Organization, and Formatting Requirements (8 points)
+The written analysis contains the following structure, organization, and formatting:
+
+There is a title, and there are multiple paragraphs (2 pt).
+Each paragraph has a heading (2 pt).
+There are subheadings to break up text (2 pt).
+Links are working, and images are formatted and displayed where appropriate (2 pt).
+Analysis Requirements (12 points)
+The written analysis has the following:
+
+
+
 
 
 ### Deliverable 1: Refactor VBA code and measure performance
