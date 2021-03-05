@@ -10,14 +10,26 @@ In this challenge, you’ll edit, or refactor, the Module 2 solution code to loo
 
 Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality; you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be your entry point to working with the existing code at a job.
 
+### Overview of Project: 
+Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+
+
 ........
 
 This new assignment consists of one technical deliverable and a written report to deliver your results. You will submit the following:
 
-Deliverable 1: Refactor VBA code and measure performance
-This deliverable will include an updated workbook and a folder with PNGs of the pop-ups with script run time
-Deliverable 2: A written analysis of your results (README.md)
+#### Deliverable 1: Refactor VBA code and measure performance
+  1.  This deliverable will include an updated workbook and a folder with PNGs of the pop-ups with script run time
+  2.  The repository stock_analysis holds the updated workbook: StockAnalysis, and the screen prints in 
+  3.  The location for the repository is https://github.com/Dybondzy/stocks-analysis/edit/main/README.md
+  4.  The location of the worksheet is https://github.com/Dybondzy/stocks-analysis/edit/main/README.md
+  5.  The location of the screen prints (png) is https://github.com/Dybondzy/stocks-analysis/edit/main/README.md
 
+
+#### Deliverable 2: A written analysis of your results (README.md)
+  1.  This README file is the written analysis
+  2.  The location is https://github.com/Dybondzy/stocks-analysis/edit/main/README.md
+  
 
 '''''''''''''''
 
