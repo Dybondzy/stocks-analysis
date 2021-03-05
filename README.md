@@ -23,7 +23,7 @@ This new assignment consists of one technical deliverable and a written report t
   2.  The repository stock_analysis holds the updated workbook: StockAnalysis, and the screen prints in 
   3.  The location for the repository is https://github.com/Dybondzy/stocks-analysis
   4.  The location of the worksheet is https://github.com/Dybondzy/stocks-analysis/blob/main/AllStocksAnalysis.xlsm
-  5.  The location of the worksheet is https://github.com/Dybondzy/stocks-analysis/blob/main/AllStocksAnalysis.xlsm
+  5.  The location of the worksheet is https://github.com/Dybondzy/stocks-analysis/blob/main/VBA_Challenge.xlsm
   6.  The location of the screen prints (png) is https://github.com/Dybondzy/stocks-analysis/edit/main/README.md
   7.  The location of the screen prints (png) is https://github.com/Dybondzy/stocks-analysis/edit/main/README.md
 
